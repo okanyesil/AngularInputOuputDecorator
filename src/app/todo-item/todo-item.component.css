@@ -1,0 +1,19 @@
+.todo-title {
+  font-size: 24px;
+  color: darkolivegreen;
+}
+hr {
+  border-top: 1px solid white;
+}
+.todo-body {
+  font-size: 20px;
+  color: white;
+}
+.card-container {
+  background-color: lightcoral;
+  border: 5px solid lightcoral;
+  margin: 5px;
+  border-radius: 5px;
+  width: 50%;
+  height: 100px;
+}
